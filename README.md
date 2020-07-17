@@ -1,2 +1,2 @@
 # Rede-Neural
-Uma rede neural desenvolvida para acompanhar uma plantações de uvas.
+Uma rede neural desenvolvida para acompanhar plantações de uva.
